@@ -1,0 +1,201 @@
+Equipo,Liga,Posición,Puntos,Partidos Jugados,Ganados,Empatados,Perdidos,Goles a Favor,Goles en Contra,Diferencia de Goles
+Botafogo FR,Campeonato Brasileiro Série A,1,79,38,23,10,5,59,29,30
+SE Palmeiras,Campeonato Brasileiro Série A,2,73,38,22,7,9,60,33,27
+CR Flamengo,Campeonato Brasileiro Série A,3,70,38,20,10,8,61,42,19
+Fortaleza EC,Campeonato Brasileiro Série A,4,68,38,19,11,8,53,39,14
+SC Internacional,Campeonato Brasileiro Série A,5,65,38,18,11,9,53,36,17
+São Paulo FC,Campeonato Brasileiro Série A,6,59,38,17,8,13,53,43,10
+SC Corinthians Paulista,Campeonato Brasileiro Série A,7,56,38,15,11,12,54,45,9
+EC Bahia,Campeonato Brasileiro Série A,8,53,38,15,8,15,49,49,0
+Cruzeiro EC,Campeonato Brasileiro Série A,9,52,38,14,10,14,43,41,2
+CR Vasco da Gama,Campeonato Brasileiro Série A,10,50,38,14,8,16,43,56,-13
+EC Vitória,Campeonato Brasileiro Série A,11,47,38,13,8,17,45,52,-7
+CA Mineiro,Campeonato Brasileiro Série A,12,47,38,11,14,13,47,54,-7
+Fluminense FC,Campeonato Brasileiro Série A,13,46,38,12,10,16,33,39,-6
+Grêmio FBPA,Campeonato Brasileiro Série A,14,45,38,12,9,17,44,50,-6
+EC Juventude,Campeonato Brasileiro Série A,15,45,38,11,12,15,48,59,-11
+RB Bragantino,Campeonato Brasileiro Série A,16,44,38,10,14,14,44,48,-4
+CA Paranaense,Campeonato Brasileiro Série A,17,42,38,11,9,18,40,46,-6
+Criciúma EC,Campeonato Brasileiro Série A,18,38,38,9,11,18,42,61,-19
+AC Goianiense,Campeonato Brasileiro Série A,19,30,38,7,9,22,29,58,-29
+Cuiabá EC,Campeonato Brasileiro Série A,20,30,38,6,12,20,29,49,-20
+Sheffield United FC,Championship,1,42,20,13,5,2,28,11,17
+Leeds United FC,Championship,2,41,20,12,5,3,36,14,22
+Burnley FC,Championship,3,38,20,10,8,2,24,7,17
+Sunderland AFC,Championship,4,37,20,10,7,3,29,15,14
+Blackburn Rovers FC,Championship,5,34,19,10,4,5,23,17,6
+West Bromwich Albion FC,Championship,6,32,20,7,11,2,23,14,9
+Middlesbrough FC,Championship,7,31,20,9,4,7,34,25,9
+Watford FC,Championship,8,31,19,9,4,6,27,25,2
+Swansea City AFC,Championship,9,27,20,7,6,7,21,19,2
+Norwich City FC,Championship,10,26,20,6,8,6,35,30,5
+Bristol City FC,Championship,11,26,20,6,8,6,25,25,0
+Sheffield Wednesday FC,Championship,12,26,20,7,5,8,23,29,-6
+Millwall FC,Championship,13,25,19,6,7,6,20,17,3
+Preston North End FC,Championship,14,22,20,4,10,6,20,26,-6
+Luton Town FC,Championship,15,22,20,6,4,10,23,35,-12
+Coventry City FC,Championship,16,21,20,5,6,9,25,29,-4
+Derby County FC,Championship,17,21,20,5,6,9,22,26,-4
+Stoke City FC,Championship,18,21,20,5,6,9,21,26,-5
+Queens Park Rangers FC,Championship,19,21,20,4,9,7,20,26,-6
+Oxford United FC,Championship,20,18,19,4,6,9,20,30,-10
+Portsmouth FC,Championship,21,17,18,3,8,7,21,30,-9
+Cardiff City FC,Championship,22,17,19,4,5,10,17,30,-13
+Plymouth Argyle FC,Championship,23,17,19,4,5,10,19,40,-21
+Hull City AFC,Championship,24,16,20,3,7,10,18,28,-10
+Liverpool FC,Premier League,1,35,14,11,2,1,29,11,18
+Chelsea FC,Premier League,2,31,15,9,4,2,35,18,17
+Arsenal FC,Premier League,3,29,15,8,5,2,29,15,14
+Manchester City FC,Premier League,4,27,15,8,3,4,27,21,6
+Nottingham Forest FC,Premier League,5,25,15,7,4,4,19,18,1
+Aston Villa FC,Premier League,6,25,15,7,4,4,23,23,0
+Brighton & Hove Albion FC,Premier League,7,24,15,6,6,3,25,22,3
+AFC Bournemouth,Premier League,8,24,15,7,3,5,23,20,3
+Brentford FC,Premier League,9,23,15,7,2,6,31,28,3
+Fulham FC,Premier League,10,23,15,6,5,4,22,20,2
+Tottenham Hotspur FC,Premier League,11,20,15,6,2,7,31,19,12
+Newcastle United FC,Premier League,12,20,15,5,5,5,19,21,-2
+Manchester United FC,Premier League,13,19,15,5,4,6,19,18,1
+West Ham United FC,Premier League,14,18,15,5,3,7,20,28,-8
+Everton FC,Premier League,15,14,14,3,5,6,14,21,-7
+Leicester City FC,Premier League,16,14,15,3,5,7,21,30,-9
+Crystal Palace FC,Premier League,17,13,15,2,7,6,14,20,-6
+Ipswich Town FC,Premier League,18,9,15,1,6,8,14,27,-13
+Wolverhampton Wanderers FC,Premier League,19,9,15,2,3,10,23,38,-15
+Southampton FC,Premier League,20,5,15,1,2,12,11,31,-20
+Liverpool FC,UEFA Champions League,1,18,6,6,0,0,13,1,12
+FC Barcelona,UEFA Champions League,2,15,6,5,0,1,21,7,14
+Arsenal FC,UEFA Champions League,3,13,6,4,1,1,11,2,9
+Bayer 04 Leverkusen,UEFA Champions League,4,13,6,4,1,1,12,5,7
+Aston Villa FC,UEFA Champions League,5,13,6,4,1,1,9,3,6
+FC Internazionale Milano,UEFA Champions League,6,13,6,4,1,1,7,1,6
+Stade Brestois 29,UEFA Champions League,7,13,6,4,1,1,10,6,4
+Lille OSC,UEFA Champions League,8,13,6,4,1,1,10,7,3
+Borussia Dortmund,UEFA Champions League,9,12,6,4,0,2,18,9,9
+FC Bayern München,UEFA Champions League,10,12,6,4,0,2,17,8,9
+Club Atlético de Madrid,UEFA Champions League,11,12,6,4,0,2,14,10,4
+AC Milan,UEFA Champions League,12,12,6,4,0,2,12,9,3
+Atalanta BC,UEFA Champions League,13,11,6,3,2,1,13,4,9
+Juventus FC,UEFA Champions League,14,11,6,3,2,1,9,5,4
+Sport Lisboa e Benfica,UEFA Champions League,15,10,6,3,1,2,10,7,3
+AS Monaco FC,UEFA Champions League,16,10,6,3,1,2,12,10,2
+Sporting Clube de Portugal,UEFA Champions League,17,10,6,3,1,2,11,9,2
+Feyenoord Rotterdam,UEFA Champions League,18,10,6,3,1,2,14,15,-1
+Club Brugge KV,UEFA Champions League,19,10,6,3,1,2,6,8,-2
+Real Madrid CF,UEFA Champions League,20,9,6,3,0,3,12,11,1
+Celtic FC,UEFA Champions League,21,9,6,2,3,1,10,10,0
+Manchester City FC,UEFA Champions League,22,8,6,2,2,2,13,9,4
+PSV,UEFA Champions League,23,8,6,2,2,2,10,8,2
+GNK Dinamo Zagreb,UEFA Champions League,24,8,6,2,2,2,10,15,-5
+Paris Saint-Germain FC,UEFA Champions League,25,7,6,2,1,3,6,6,0
+VfB Stuttgart,UEFA Champions League,26,7,6,2,1,3,9,12,-3
+FK Shakhtar Donetsk,UEFA Champions League,27,4,6,1,1,4,5,13,-8
+AC Sparta Praha,UEFA Champions League,28,4,6,1,1,4,7,18,-11
+SK Sturm Graz,UEFA Champions League,29,3,6,1,0,5,4,9,-5
+Girona FC,UEFA Champions League,30,3,6,1,0,5,4,10,-6
+FK Crvena Zvezda,UEFA Champions League,31,3,6,1,0,5,10,19,-9
+FC Red Bull Salzburg,UEFA Champions League,32,3,6,1,0,5,3,18,-15
+Bologna FC 1909,UEFA Champions League,33,2,6,0,2,4,1,7,-6
+RB Leipzig,UEFA Champions League,34,0,6,0,0,6,6,13,-7
+ŠK Slovan Bratislava,UEFA Champions League,35,0,6,0,0,6,5,21,-16
+BSC Young Boys,UEFA Champions League,36,0,6,0,0,6,3,22,-19
+Germany,European Championship,1,7,3,2,1,0,8,2,6
+Switzerland,European Championship,2,5,3,1,2,0,5,3,2
+Hungary,European Championship,3,3,3,1,0,2,2,5,-3
+Scotland,European Championship,4,1,3,0,1,2,2,7,-5
+Paris Saint-Germain FC,Ligue 1,1,34,14,10,4,0,37,11,26
+Olympique de Marseille,Ligue 1,2,29,14,9,2,3,31,17,14
+AS Monaco FC,Ligue 1,3,29,14,9,2,3,24,12,12
+Lille OSC,Ligue 1,4,26,14,7,5,2,24,14,10
+Olympique Lyonnais,Ligue 1,5,25,14,7,4,3,26,17,9
+OGC Nice,Ligue 1,6,23,14,6,5,3,26,17,9
+Racing Club de Lens,Ligue 1,7,23,14,6,5,3,17,12,5
+AJ Auxerre,Ligue 1,8,20,14,6,2,6,21,21,0
+Stade de Reims,Ligue 1,9,19,14,5,4,5,20,18,2
+Toulouse FC,Ligue 1,10,18,14,5,3,6,15,16,-1
+Stade Brestois 29,Ligue 1,11,16,14,5,1,8,20,26,-6
+Stade Rennais FC 1901,Ligue 1,12,14,14,4,2,8,18,20,-2
+FC Nantes,Ligue 1,13,14,14,3,5,6,16,20,-4
+RC Strasbourg Alsace,Ligue 1,14,14,14,3,5,6,22,27,-5
+Angers SCO,Ligue 1,15,13,14,3,4,7,14,24,-10
+AS Saint-Étienne,Ligue 1,16,13,14,4,1,9,11,32,-21
+Le Havre AC,Ligue 1,17,12,14,4,0,10,11,26,-15
+Montpellier HSC,Ligue 1,18,8,14,2,2,10,13,36,-23
+FC Bayern München,Bundesliga,1,33,13,10,3,0,41,10,31
+Eintracht Frankfurt,Bundesliga,2,27,13,8,3,2,33,18,15
+Bayer 04 Leverkusen,Bundesliga,3,26,13,7,5,1,30,20,10
+RB Leipzig,Bundesliga,4,24,13,7,3,3,21,14,7
+VfL Wolfsburg,Bundesliga,5,21,13,6,3,4,29,22,7
+Borussia Dortmund,Bundesliga,6,21,13,6,3,4,24,20,4
+SC Freiburg,Bundesliga,7,21,13,6,3,4,17,17,0
+VfB Stuttgart,Bundesliga,8,20,13,5,5,3,26,23,3
+1. FSV Mainz 05,Bundesliga,9,19,13,5,4,4,23,18,5
+SV Werder Bremen,Bundesliga,10,19,13,5,4,4,20,24,-4
+Borussia Mönchengladbach,Bundesliga,11,18,13,5,3,5,19,18,1
+1. FC Union Berlin,Bundesliga,12,16,13,4,4,5,12,14,-2
+FC Augsburg,Bundesliga,13,16,13,4,4,5,16,25,-9
+TSG 1899 Hoffenheim,Bundesliga,14,13,13,3,4,6,18,25,-7
+FC St. Pauli 1910,Bundesliga,15,11,13,3,2,8,11,17,-6
+1. FC Heidenheim 1846,Bundesliga,16,10,13,3,1,9,17,28,-11
+Holstein Kiel,Bundesliga,17,5,13,1,2,10,13,33,-20
+VfL Bochum 1848,Bundesliga,18,2,13,0,2,11,10,34,-24
+Atalanta BC,Serie A,1,34,15,11,1,3,38,17,21
+SSC Napoli,Serie A,2,32,15,10,2,3,21,10,11
+FC Internazionale Milano,Serie A,3,31,14,9,4,1,34,15,19
+ACF Fiorentina,Serie A,4,31,14,9,4,1,28,10,18
+SS Lazio,Serie A,5,31,15,10,1,4,30,17,13
+Juventus FC,Serie A,6,27,15,6,9,0,24,10,14
+AC Milan,Serie A,7,22,14,6,4,4,24,16,8
+Bologna FC 1909,Serie A,8,22,14,5,7,2,20,18,2
+Udinese Calcio,Serie A,9,20,15,6,2,7,18,22,-4
+Empoli FC,Serie A,10,19,15,4,7,4,14,15,-1
+AS Roma,Serie A,11,16,15,4,4,7,18,21,-3
+Torino FC,Serie A,12,16,15,4,4,7,16,20,-4
+Parma Calcio 1913,Serie A,13,15,15,3,6,6,21,25,-4
+Genoa CFC,Serie A,14,15,15,3,6,6,13,24,-11
+Cagliari Calcio,Serie A,15,14,15,3,5,7,15,25,-10
+US Lecce,Serie A,16,13,15,3,4,8,8,26,-18
+Como 1907,Serie A,17,12,15,2,6,7,16,28,-12
+Hellas Verona FC,Serie A,18,12,15,4,0,11,18,37,-19
+AC Monza,Serie A,19,10,15,1,7,7,13,19,-6
+Venezia FC,Serie A,20,9,15,2,3,10,13,27,-14
+PSV,Eredivisie,1,42,15,14,0,1,56,12,44
+FC Utrecht,Eredivisie,2,35,15,11,2,2,29,20,9
+AFC Ajax,Eredivisie,3,33,15,10,3,2,32,16,16
+Feyenoord Rotterdam,Eredivisie,4,32,15,9,5,1,35,16,19
+FC Twente '65,Eredivisie,5,28,15,8,4,3,30,20,10
+AZ,Eredivisie,6,26,15,8,2,5,28,16,12
+NAC Breda,Eredivisie,7,22,15,7,1,7,17,23,-6
+Go Ahead Eagles,Eredivisie,8,21,15,6,3,6,25,23,2
+Fortuna Sittard,Eredivisie,9,19,15,5,4,6,17,21,-4
+SC Heerenveen,Eredivisie,10,18,15,5,3,7,16,28,-12
+NEC,Eredivisie,11,16,15,5,1,9,21,19,2
+Willem II Tilburg,Eredivisie,12,16,15,4,4,7,16,18,-2
+PEC Zwolle,Eredivisie,13,16,15,4,4,7,15,24,-9
+FC Groningen,Eredivisie,14,16,15,4,4,7,14,24,-10
+Heracles Almelo,Eredivisie,15,14,15,3,5,7,16,28,-12
+Sparta Rotterdam,Eredivisie,16,11,15,2,5,8,13,23,-10
+RKC Waalwijk,Eredivisie,17,6,15,1,3,11,15,37,-22
+Almere City FC,Eredivisie,18,6,15,1,3,11,7,34,-27
+Sporting Clube de Portugal,Primeira Liga,1,33,13,11,0,2,40,8,32
+Sport Lisboa e Benfica,Primeira Liga,2,31,12,10,1,1,31,7,24
+FC Porto,Primeira Liga,3,31,13,10,1,2,31,9,22
+CD Santa Clara,Primeira Liga,4,27,13,9,0,4,16,12,4
+Sporting Clube de Braga,Primeira Liga,5,24,13,7,3,3,22,13,9
+Vitória SC,Primeira Liga,6,21,13,6,3,4,16,12,4
+Moreirense FC,Primeira Liga,7,20,13,6,2,5,19,18,1
+FC Famalicão,Primeira Liga,8,18,13,4,6,3,14,12,2
+Rio Ave FC,Primeira Liga,9,15,13,4,3,6,13,23,-10
+Casa Pia AC,Primeira Liga,10,14,13,3,5,5,11,17,-6
+GD Estoril Praia,Primeira Liga,11,14,13,3,5,5,12,19,-7
+Gil Vicente FC,Primeira Liga,12,13,13,3,4,6,16,24,-8
+CF Estrela da Amadora,Primeira Liga,13,12,13,3,3,7,12,22,-10
+Boavista FC,Primeira Liga,14,11,13,2,5,6,8,16,-8
+AVS,Primeira Liga,15,11,13,2,5,6,10,21,-11
+CD Nacional,Primeira Liga,16,9,12,2,3,7,7,17,-10
+SC Farense,Primeira Liga,17,9,13,2,3,8,7,19,-12
+FC Arouca,Primeira Liga,18,8,13,2,2,9,7,23,-16
+Netherlands,FIFA World Cup,1,7,3,2,1,0,5,1,4
+Senegal,FIFA World Cup,2,6,3,2,0,1,5,4,1
+Ecuador,FIFA World Cup,3,4,3,1,1,1,4,3,1
+Qatar,FIFA World Cup,4,0,3,0,0,3,1,7,-6
