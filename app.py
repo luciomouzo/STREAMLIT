@@ -37,13 +37,6 @@ def login():
         else:
             st.error("Usuario o contraseña incorrectos. Intenta nuevamente.")
 
-
-# Función para comparación de equipos
-def comparacion_equipos():
-    st.title("Comparación de Equipos")
-    st.write("Aquí podrás comparar estadísticas entre equipos.")
-
-
 # Función para obtener las ligas por webscraping
 def obtener_datos_webscraping(headers, guardar_csv=True):
     # Obtener todas las ligas
